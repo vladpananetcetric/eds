@@ -1,0 +1,9 @@
+.text-image {
+  background-color: aquamarine;
+}
+
+.text-image div:first-child {
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+}
